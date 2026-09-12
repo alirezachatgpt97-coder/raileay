@@ -1,0 +1,1 @@
+Railway edition: Dockerfile root + PORT-aware Uvicorn + /data persistent storage + auto runtime secrets.
